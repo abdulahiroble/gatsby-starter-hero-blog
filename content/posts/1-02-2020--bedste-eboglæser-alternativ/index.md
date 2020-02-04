@@ -3,7 +3,7 @@ title: Bedste e bogslæser alternativ
 cover: saxo-app-ebog-oversigt-lydbog-headset.jpg
 ---
 
-Selvom der er rigtig mange <a href="https://bedsteebogslaeser.dk/bedste-eboglæser" target="_blank">gode e bogslæsere</a> på markedet har vi valgt at komme med vores bud på et godt alternativ for dem som ikke ønsker at købe en e bogslæser ligenu.
+Selvom der er rigtig mange <a href="https://bedsteeboglaeser.dk/bedste-eboglæser" target="_blank">gode e bogslæsere</a> på markedet har vi valgt at komme med vores bud på et godt alternativ for dem som ikke ønsker at købe en e bogslæser ligenu.
 
 Vi taler nemlig om Saxo Premium. Det er en online tjeneste som giver ubegrænset adgang til tusindvis af lyd- og e-bøger på mobilen eller tablet. Dertil får du store besparelser og fri fragt på alle typer af bøger, når du handler hos Saxo.
 
