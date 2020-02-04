@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: "Bedste E-bogslæser - Find din favorit e bogslæser her", // <title>
-  shortSiteTitle: "gode e-bogslæser", // <title> ending for posts and pages
-  siteDescription: "Find din næste e-bogslæser her",
+  siteTitle: "Bedste e bogslæser - Find de bedste e bogslæser her", // <title>
+  shortSiteTitle: "gode e bogslæser", // <title> ending for posts and pages
+  siteDescription: "Find din næste e bogslæser her",
   siteUrl: "https://bedsteeboglaeser.dk/",
   // pathPrefix: "",
   // siteImage: "preview.jpg",
@@ -16,8 +16,8 @@ module.exports = {
   // headerSubTitle: "presents another one GatsbyJS starter",
 
   /* manifest.json */
-  manifestName: "Bedste E-bøger - Find din favorit e-bog her",
-  manifestShortName: "bedste e-bogslæser", // max 12 characters
+  manifestName: "Bedste e bogslæser - Find gode e bogslæser her",
+  manifestShortName: "bedste e bogslæser", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
