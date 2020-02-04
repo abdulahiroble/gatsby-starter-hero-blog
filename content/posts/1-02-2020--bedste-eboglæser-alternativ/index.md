@@ -27,6 +27,24 @@ Cons
 
 - Masser af indhold som er gratis, men noget af det skal man betale for til en reduceret medlemspris.
 
+#### Sådan kommer du i gang med at læse med Saxo Premium
+
+<div style="position: relative
+        paddingBottom: 56.25% /* 16:9 */,
+        paddingTop: 25,
+        height: 0">
+
+ <iframe width="340" height="200" style="          position: absolute,
+          top: 0,
+          left: 0,
+          width: 100%,
+          height: 100%"
+src="https://www.youtube.com/embed/fOZXZZB9Bmc" SameSite=None
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+</div>
+
 <a href="https://track.adtraction.com/t/t?a=1328959079&as=1465242862&t=2&tk=1&url=https://www.saxo.com/dk/premium" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
