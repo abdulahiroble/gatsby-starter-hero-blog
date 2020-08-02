@@ -5,7 +5,7 @@ module.exports = {
   siteUrl: "https://bedsteeboglaeser.dk/",
   // pathPrefix: "",
   // siteImage: "preview.jpg",
-  siteLanguage: "en",
+  siteLanguage: "de",
 
   /* author */
   // authorName: "greg lobinski",
