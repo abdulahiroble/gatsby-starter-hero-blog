@@ -45,6 +45,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
+<div style="text-align: center">
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Tablet/Amazon-Kindle-Paperwhite-6-2018-8GB-Black/2744432" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
@@ -55,7 +56,9 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a><br><br>
+	<span style="font-style: italic; font-size: 16px; margin-top: 5px;">*Annoncelink</span>
+</div>
 
 ## 2. Amazon Kindle Oasis
 
@@ -99,7 +102,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="https://www.computersalg.dk/i/5723442/amazon-kindle-oasis-ebook-laeser-8/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
+<div style="text-align: center">
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Tablet/Amazon-Kindle-Oasis-7-2019-32GB-Gold/2800752" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -109,7 +113,10 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a><br><br>
+	<span style="font-style: italic; font-size: 16px; margin-top: 5px;">*Annoncelink</span>
+
+</div>
 
 ## 3. Kobo Clara
 
@@ -148,6 +155,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
+<div style="text-align: center">
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Tablet/Kobo-Clara-HD-eBook-reader-8-GB-6/2684917" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
@@ -158,7 +166,9 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a><br><br>
+	<span style="font-style: italic; font-size: 16px; margin-top: 5px;">*Annoncelink</span>
+</div>
 
 ## 4. PocketBook Touch
 
@@ -201,6 +211,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
+<div style="text-align: center">
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Tablet/PocketBook-Touch-Lux-5-Ink-Black/2871111" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
@@ -211,4 +222,6 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a><br><br><br>
+	<span style="font-style: italic; font-size: 16px; margin-top: 5px;">*Annoncelink</span>
+</div>
