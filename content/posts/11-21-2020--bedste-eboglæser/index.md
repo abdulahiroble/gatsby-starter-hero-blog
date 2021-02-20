@@ -5,6 +5,8 @@ cover: kindle-3.jpg
 
 At læse e-bøger med en e bogslæser er en spændende oplevelse, og det kan også hjælpe dig med at nyde din tid, mens du er på farten. Der er dog mange gode e-bog-læsere på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste e bogslæsere som inkluderer deres funktioner, fordele og ulemper.
 
+<a href="https://track.adtraction.com/t/t?a=1424413263&as=1465242862&t=2&tk=1"><img src="https://track.adtraction.com/t/t?a=1424413263&as=1465242862&t=1&tk=1&i=1" width="120" height="600" border="0"></a>
+
 ## 1. Amazon Kindle Paperwhite
 
 ![Amazon Kindle Paperwhite](<./Amazon-Kindle-Paperwhite-4-8GB-(2018).jpg>)
