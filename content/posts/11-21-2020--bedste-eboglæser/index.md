@@ -5,8 +5,6 @@ cover: kindle-3.jpg
 
 At læse e-bøger med en e bogslæser er en spændende oplevelse, og det kan også hjælpe dig med at nyde din tid, mens du er på farten. Der er dog mange gode e-bog-læsere på markedet, så hvordan kan du finde ud af, hvad der er den bedste for dig? Her har du en liste med de bedste e bogslæsere som inkluderer deres funktioner, fordele og ulemper.
 
-<a href="https://track.adtraction.com/t/t?a=1424413263&as=1465242862&t=2&tk=1"><img src="https://track.adtraction.com/t/t?a=1424413263&as=1465242862&t=1&tk=1&i=1" width="120" height="600" border="0"></a>
-
 ## 1. Amazon Kindle Paperwhite
 
 ![Amazon Kindle Paperwhite](<./Amazon-Kindle-Paperwhite-4-8GB-(2018).jpg>)
@@ -47,6 +45,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
+<div style="text-align: center">
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Tablet/Amazon-Kindle-Paperwhite-6-2018-8GB-Black/2744432" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
@@ -58,6 +57,7 @@ allowfullscreen></iframe>
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+</div>
 
 ## 2. Amazon Kindle Oasis
 
@@ -101,7 +101,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
-<a href="https://www.computersalg.dk/i/5723442/amazon-kindle-oasis-ebook-laeser-8/?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=4274E08D2B30453B4372FC9F60FBC133D9632539" target="_blank"  style="background-color:#f44336; 
+<div style="text-align: center">
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Tablet/Amazon-Kindle-Oasis-7-2019-32GB-Gold/2800752" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
@@ -112,6 +113,8 @@ allowfullscreen></iframe>
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+
+</div>
 
 ## 3. Kobo Clara
 
@@ -150,6 +153,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
+<div style="text-align: center">
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67757&htmlurl=https://www.proshop.dk/Tablet/Kobo-Clara-HD-eBook-reader-8-GB-6/2684917" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
@@ -161,6 +165,7 @@ allowfullscreen></iframe>
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+</div>
 
 ## 4. PocketBook Touch
 
@@ -203,6 +208,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
 
+<div style="text-align: center">
 <a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Tablet/PocketBook-Touch-Lux-5-Ink-Black/2871111" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
@@ -214,3 +220,4 @@ allowfullscreen></iframe>
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a>
+</div>
