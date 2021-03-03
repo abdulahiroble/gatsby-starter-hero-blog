@@ -29,29 +29,13 @@ Du skal tilslutte med bluetooth for at lytte til lydbogen. Det kan være enten e
 
 ![tilslut-bluetooth](./step-4.png)
 
-<div style="position: relative
-        paddingBottom: 56.25% /* 16:9 */,
-        paddingTop: 25,
-        height: 0">
-
- <iframe width="340" height="200" style="          position: absolute,
-          top: 0,
-          left: 0,
-          width: 100%,
-          height: 100%"
-src="https://www.youtube.com/embed/vStzI2hAPi8" SameSite=None
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-</div>
-
 ## 5. Tilmeld dig Audible og få en masse fordele
 
 for at kunne lytte til lydbøger på din e boglæser skal du først tilmelde dig Audible som er en lydbogstjeneste hvor du kan lytte til tusindvis af lydbøger.
 
 Her er fire grunde til at prøve audible:
 
-- Behold dine bøger
+- Behold dine e bøger selv hvis du opsiger audible
 - Op til 80% rabat på bestemte lydbøger
 - Få en gratis lydbog hver måned
 
