@@ -3,7 +3,7 @@ title: Lyt til lydbog på din e boglæser
 cover: audible.jpg
 ---
 
-Hvis du er indehaveren af en <a href="https://bedsteeboglaeser.dk/bedste-eboglæser" target="_blank">Amazon paper white</a> eller <a href="https://bedsteeboglaeser.dk/bedste-eboglæser" target="_blank">Amazon oasis</a> e boglæser har du heldet med dig. Du har nemlig muligheden for at lytte til lydbog på din eboglæser. I denne guide vil vi vise dig hvordan du kan få sat det op i fire lette trin.
+Hvis du er indehaveren af en <a href="https://bedsteeboglaeser.dk/bedste-eboglæser" target="_blank">Amazon paper white</a> eller <a href="https://bedsteeboglaeser.dk/bedste-eboglæser" target="_blank">Amazon oasis</a> e boglæser har du heldet med dig. Du har nemlig muligheden for at lytte til lydbog på din eboglæser. I denne guide vil vi vise dig hvordan du kan få sat det op i fem lette trin.
 
 ## 1. Se efter bøger som har et headset icon
 
