@@ -1,5 +1,5 @@
 ---
-title: Bedste e bogslæser 2020
+title: Bedste e bogslæser 2021
 cover: kindle-3.jpg
 ---
 
