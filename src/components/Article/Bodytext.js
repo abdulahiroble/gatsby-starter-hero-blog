@@ -7,7 +7,6 @@ const Bodytext = props => {
   return (
     <React.Fragment>
       <div className="bodytext" dangerouslySetInnerHTML={{ __html: html }} />
-
       <style jsx>{`
         .bodytext {
           animation-name: bodytextEntry;

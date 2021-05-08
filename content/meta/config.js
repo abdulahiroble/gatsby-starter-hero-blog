@@ -1,23 +1,23 @@
 module.exports = {
-  siteTitle: "Bedste e Bogslæser 2021 - Find de Bedste e Bogslæser her", // <title>
-  shortSiteTitle: "bedste e-bogslæser 2021", // <title> ending for posts and pages
-  siteDescription: "Find din næste e bogslæser her",
+  siteTitle: "Bedste E-Bogslæser 2021 - Find de Bedste E-Bogslæser her", // <title>
+  shortSiteTitle: "Bedste E-bogslæser 2021", // <title> ending for posts and pages
+  siteDescription: "Find din næste E-bogslæser her",
   siteUrl: "https://bedsteeboglaeser.dk/",
   // pathPrefix: "",
   // siteImage: "preview.jpg",
-  siteLanguage: "de",
+  siteLanguage: "da",
 
   /* author */
   // authorName: "greg lobinski",
   // authorTwitterAccount: "greglobinski",
 
   /* info */
-  headerTitle: "bedste e-bogslæser",
+  headerTitle: "Bedste Elektronisk Bog",
   // headerSubTitle: "presents another one GatsbyJS starter",
 
   /* manifest.json */
-  manifestName: "Bedste e bogslæser - Find Gode e Bogslæser her",
-  manifestShortName: "bedste e bogslæser", // max 12 characters
+  manifestName: "Bedste E-Bogslæser - Find Gode E-Bogslæser her",
+  manifestShortName: "Bedste E-bogslæser", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
