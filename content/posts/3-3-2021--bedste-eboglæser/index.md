@@ -1,5 +1,5 @@
 ---
-title: Bedste e bogslæser 2021
+title: Bedste E Bogslæser 2021
 cover: kindle-3.jpg
 ---
 
@@ -56,7 +56,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a><br><br>
+	text-shadow:0px 1px 0px #2f6627;" >Køb Amazon Kindle Paperwhite</a><br><br>
 	<span style="font-style: italic; font-size: 16px; margin-top: 5px;">*Annoncelink</span>
 </div>
 
@@ -113,7 +113,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a><br><br>
+	text-shadow:0px 1px 0px #2f6627;" >Køb Amazon Kindle Oasis</a><br><br>
 	<span style="font-style: italic; font-size: 16px; margin-top: 5px;">*Annoncelink</span>
 
 </div>
@@ -166,7 +166,7 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a><br><br>
+	text-shadow:0px 1px 0px #2f6627;" >Køb Kobo Clara</a><br><br>
 	<span style="font-style: italic; font-size: 16px; margin-top: 5px;">*Annoncelink</span>
 </div>
 
@@ -222,6 +222,6 @@ allowfullscreen></iframe>
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;" >Tjek Pris Her</a><br><br><br>
+	text-shadow:0px 1px 0px #2f6627;" >Køb PocketBook Touch</a><br><br><br>
 	<span style="font-style: italic; font-size: 16px; margin-top: 5px;">*Annoncelink</span>
 </div>

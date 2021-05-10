@@ -12,7 +12,7 @@ module.exports = {
   // authorTwitterAccount: "greglobinski",
 
   /* info */
-  headerTitle: "Bedste Elektronisk Bog",
+  headerTitle: "bedsteeboglaeser.dk",
   // headerSubTitle: "presents another one GatsbyJS starter",
 
   /* manifest.json */
