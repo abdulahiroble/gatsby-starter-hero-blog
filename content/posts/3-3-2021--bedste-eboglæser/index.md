@@ -46,7 +46,7 @@ allowfullscreen></iframe>
 </div>
 
 <div style="text-align: center">
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Tablet/Amazon-Kindle-Paperwhite-6-2018-8GB-Black/2744432" target="_blank"  style="background-color:#f44336; 
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=29353&bannerid=67785&htmlurl=https://www.proshop.dk/Tablet/Amazon-Kindle-Paperwhite-6-2018-32GB-Black/2740765" target="_blank"  style="background-color:#f44336; 
 	border-radius:28px;
 	border:1px solid #f44336;
 	display:inline-block;
